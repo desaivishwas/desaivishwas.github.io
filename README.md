@@ -1,4 +1,5 @@
-# ChaitanyaD20.github.io
+# vishwas.github.io
+
 To view my Project Portfolio, kindly open the https://chaitanyad20.github.io .
 
 Thank You
